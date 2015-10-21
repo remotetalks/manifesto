@@ -1,0 +1,2 @@
+# manifesto
+remote talks manifesto
