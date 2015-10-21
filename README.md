@@ -4,7 +4,6 @@
 
 - Create a "friend-to-friend" community of Developers
 - Share knowledge and create good content
-- 
 
 # Problems we are trying to solve
 
