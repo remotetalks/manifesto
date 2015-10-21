@@ -3,16 +3,13 @@
 "every good work of software starts by scratching a developer's personal itch" - Eric Raymond
 
 - Create a "friend-to-friend" community of Developers
-- Share knowledge and create good content
+- Share knowledge and create good content, encouraging the Open Source community
 
 # Problems we are trying to solve
 
 1.How can I go to a meetup in a different city?
 
 I cannot go to some amazing meetups, because they are far away from me. 
-
-2. 
-3. 
 
 
 
