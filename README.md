@@ -18,6 +18,6 @@ I cannot go to some amazing meetups, because they are far away from me.
 - Introduction of participants (5min)
 - Short introduction - Speaker (3min)
 - Talk (20min) - Speaker - recorded by youtube
-- Questions and comments (15min)
+- Questions and comments (5min)
 
 The overall duration is about 40min, but the talk should be only 20min. We would like to watch/listen the talk during a coffee break time. :- )
